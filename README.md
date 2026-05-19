@@ -5,7 +5,7 @@ I just have this because it took me a　ｗｈｏｌｅ　week to accomplish on 
 During the composer install, some packages failed to be downloaded or writen, then resorted to Git cloning, which only made it　ＥＴＥＲＮＡＬ．
 So I ended up manually downloading the failed processed packages, update the composer.json to locate them and the rest was simply done frictionless, ｉｎ　ｍｉｎｕｔｅｓ．
 
-You still gotta configure it according to your needs. Y'know: generating an artisan key, setting up the database engine and connection and so on. The usual error prompted on the first try.
+You still gotta configure it according to your needs. Y'know: generating an artisan key, setting up the database engine and connection and so on. The usual errors prompted on the first try.
 
 Who the fuck came up with that package management strategy anyways? Why downloading a ton of data only to blow away most of it to get it ready on the user machine. I even needed to add version number to the packages so they get recognized. By design my balls.
 
